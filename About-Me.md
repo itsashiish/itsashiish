@@ -1,4 +1,4 @@
-Passionate and skilled AI/ML developer with a proven track record expertise in deep learning, natural language processing, neural networks, and data science, committed to developing innovative solutions that drive business success.
+Passionate AI/ML Developer | Researched in Deep Learning, NLP, Neural Networks, and Data Science | Committed to Innovative Business Solutions | UI/UX & Front End Design Enthusiast
 
 **Publications**
 
