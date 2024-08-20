@@ -1,4 +1,4 @@
-Passionate AI/ML Developer | Researched in Deep Learning, NLP, Neural Networks, and Data Science | Committed to Innovative Business Solutions | UI/UX & Front End Design Enthusiast
+_Passionate AI/ML Developer | Researched in Deep Learning, NLP, Neural Networks, and Data Science | Committed to Innovative Business Solutions | UI/UX & Front End Design Enthusiast_
 
 **Publications**
 
