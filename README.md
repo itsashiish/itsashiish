@@ -61,4 +61,4 @@ Currently I'm building **Oglic** — a growing collection of free web tools desi
 
 💼 **LinkedIn:** https://linkedin.com/in/itsashiish
 
-📧 **Email:** [your@email.com](mailto:your@email.com)
+📧 **Email:** [itsashiish@gmail.com](mailto:itsashiish@gmail.com)
