@@ -1,64 +1,52 @@
 # Hi, I'm Ashish 👋
 
-**Graphic Designer • Product Designer • Building Oglic**
+**Product & Visual Designer · Designing at Kuberhunt · Building [Oglic](https://oglic.com)**
 
-I enjoy designing and building products that solve real-world problems through thoughtful user experiences and simple, practical interfaces.
-
-Currently I'm building **Oglic** — a growing collection of free web tools designed to be fast, privacy-friendly, and genuinely useful.
+I design and build digital products — brand systems, product interfaces, and small tools that solve real problems. My background spans business analysis and AI, so I tend to treat design the way I treat workflows: as systems that should hold up at scale.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently
 
-* 🌐 **Oglic** — Utility tools for everyday use
-* 🎨 UI/UX design and product interfaces
-* 💻 AI-assisted web development
-* 📈 Learning product thinking and business strategy
+- 🌐 **[Oglic](https://oglic.com)** — an independent studio of free, privacy-first web tools. 17 live, no accounts, no uploads.
+- 🎨 **Kuberhunt** — graphic designer on a fintech product: brand system, campaigns, app-store and product marketing assets.
+- 💻 Building with AI-assisted workflows — from Figma to shipped code.
+
+### A few Oglic tools
+
+| Tool | What it does |
+|---|---|
+| [Compressor](https://compressor.oglic.com) | Compress images in the browser |
+| [Scrubber](https://scrubber.oglic.com) | Remove hidden metadata from files |
+| [PDF Tools](https://pdf.oglic.com) | Merge, split and edit PDFs locally |
+| [Contraster](https://contraster.oglic.com) | Check color contrast for accessibility |
+
+→ [See all tools](https://oglic.com)
 
 ---
 
-## 🛠 Tech & Design Stack
+## 🛠 Stack
 
-### Design
+**Design** — Figma · Illustrator · Photoshop · GIMP · Canva
 
-* Figma
-* Photoshop
-* GIMP
-* Canva
+**Frontend** — React · TypeScript · JavaScript · HTML · CSS · Tailwind
 
-### Frontend
+**Build & Ship** — Vite · Node.js · Git · GitHub · Vercel · Lovable
 
-* HTML
-* CSS
-* JavaScript
-* React
-
-### Development
-
-* Git
-* GitHub
-* Lovable
-* Node.js
-
-### Other
-
-* Python
-* Microsoft Office
+**Other** — Python · Microsoft Office
 
 ---
 
 ## 📚 Publication
 
-**Research Paper**
-
-[Deep Learning Research Publication (DOI)](https://doi.org/10.5281/zenodo.7888972)
+**AI-Based Video Summarization Using FFmpeg and NLP** — *IJISRT, 2023*
+An end-to-end system that cut video length by up to 72% while keeping the key narrative intact.
+[Read the paper (DOI)](https://doi.org/10.5281/zenodo.7888972)
 
 ---
 
 ## 🌍 Find Me
 
-🌐 **Portfolio:** https://ashishramtekkar.com
-
-💼 **LinkedIn:** https://linkedin.com/in/itsashiish
-
-📧 **Email:** [itsashiish@gmail.com](mailto:itsashiish@gmail.com)
+🌐 **Portfolio** — [ashishramtekkar.com](https://ashishramtekkar.com)
+💼 **LinkedIn** — [in/ashishramtekkar](https://www.linkedin.com/in/ashishramtekkar/)
+📧 **Email** — [itsashiish@gmail.com](mailto:itsashiish@gmail.com)
