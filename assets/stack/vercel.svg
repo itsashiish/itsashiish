@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="40" viewBox="0 0 96 40" role="img" aria-label="Vercel">
+  <title>Vercel</title>
+  <rect x="0.5" y="0.5" width="95" height="39" rx="9" fill="#161616" stroke="#333333"/>
+  <svg x="12" y="11.0" width="18" height="18" viewBox="0 0 24 24"><path fill="#F5F5F0" d="m12 1.608l12 20.784H0Z"/></svg>
+  <text x="39" y="25" textLength="43" lengthAdjust="spacing" font-family="'Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#F5F5F0">Vercel</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="40" viewBox="0 0 109 40" role="img" aria-label="Tailwind">
+  <title>Tailwind</title>
+  <rect x="0.5" y="0.5" width="108" height="39" rx="9" fill="#161616" stroke="#333333"/>
+  <svg x="12" y="11.0" width="18" height="18" viewBox="0 0 24 24"><path fill="#F5F5F0" d="M12.001 4.8q-4.8 0-6 4.8q1.8-2.4 4.2-1.8c.913.228 1.565.89 2.288 1.624C13.666 10.618 15.027 12 18.001 12q4.8 0 6-4.8q-1.8 2.4-4.2 1.8c-.913-.228-1.565-.89-2.288-1.624C16.337 6.182 14.976 4.8 12.001 4.8m-6 7.2q-4.8 0-6 4.8q1.8-2.4 4.2-1.8c.913.228 1.565.89 2.288 1.624c1.177 1.194 2.538 2.576 5.512 2.576q4.8 0 6-4.8q-1.8 2.4-4.2 1.8c-.913-.228-1.565-.89-2.288-1.624C10.337 13.382 8.976 12 6.001 12"/></svg>
+  <text x="39" y="25" textLength="56" lengthAdjust="spacing" font-family="'Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#F5F5F0">Tailwind</text>
+</svg>

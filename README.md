@@ -5,13 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://oglic.com"><img src="https://img.shields.io/badge/Oglic-oglic.com-FF5A1F?style=flat-square&labelColor=0D0D0D" alt="Oglic" /></a>
-  <a href="https://ashishramtekkar.com"><img src="https://img.shields.io/badge/Portfolio-ashishramtekkar.com-F5F5F0?style=flat-square&labelColor=0D0D0D" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ashishramtekkar/"><img src="https://img.shields.io/badge/LinkedIn-ashishramtekkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn" /></a>
-  <a href="mailto:itsashiish@gmail.com"><img src="https://img.shields.io/badge/Email-itsashiish%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D0D0D" alt="Email" /></a>
-</p>
-
 <br />
 
 I design and build digital products — **brand systems, product interfaces, and small tools that solve real problems.**
@@ -91,26 +84,40 @@ const ashish = {
   <tr>
     <td width="130"><b>Design</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,ai,ps,gimp&theme=dark" height="40" alt="Figma, Illustrator, Photoshop, GIMP" />
-      <img src="./assets/stack-canva.svg" height="40" alt="Canva" />
+      <img src="./assets/stack/figma.svg" height="40" alt="Figma" />
+      <img src="./assets/stack/illustrator.svg" height="40" alt="Illustrator" />
+      <img src="./assets/stack/photoshop.svg" height="40" alt="Photoshop" />
+      <img src="./assets/stack/gimp.svg" height="40" alt="GIMP" />
+      <img src="./assets/stack/canva.svg" height="40" alt="Canva" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark" height="40" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind" /></td>
+    <td>
+      <img src="./assets/stack/react.svg" height="40" alt="React" />
+      <img src="./assets/stack/typescript.svg" height="40" alt="TypeScript" />
+      <img src="./assets/stack/javascript.svg" height="40" alt="JavaScript" />
+      <img src="./assets/stack/html.svg" height="40" alt="HTML" />
+      <img src="./assets/stack/css.svg" height="40" alt="CSS" />
+      <img src="./assets/stack/tailwind.svg" height="40" alt="Tailwind" />
+    </td>
   </tr>
   <tr>
     <td><b>Build & Ship</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vite,nodejs,git,github,vercel&theme=dark" height="40" alt="Vite, Node.js, Git, GitHub, Vercel" />
-      <img src="./assets/stack-lovable.svg" height="40" alt="Lovable" />
+      <img src="./assets/stack/vite.svg" height="40" alt="Vite" />
+      <img src="./assets/stack/nodejs.svg" height="40" alt="Node.js" />
+      <img src="./assets/stack/git.svg" height="40" alt="Git" />
+      <img src="./assets/stack/github.svg" height="40" alt="GitHub" />
+      <img src="./assets/stack/vercel.svg" height="40" alt="Vercel" />
+      <img src="./assets/stack/lovable.svg" height="40" alt="Lovable" />
     </td>
   </tr>
   <tr>
     <td><b>Other</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" />
-      <img src="./assets/stack-office.svg" height="40" alt="Microsoft Office" />
+      <img src="./assets/stack/python.svg" height="40" alt="Python" />
+      <img src="./assets/stack/office.svg" height="40" alt="Microsoft Office" />
     </td>
   </tr>
 </table>
@@ -119,7 +126,7 @@ const ashish = {
 
 ## 📚 Publication
 
-> **AI-Based Video Summarization Using FFmpeg and NLP** — *IJISRT, 2023*
+> **AI-Based Video Summarization Using FFmpeg and NLP** — *IJISRT, 2023*<br />
 > An end-to-end system that cut video length by **up to 72%** while keeping the key narrative intact.
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7888972-0D0D0D?style=flat-square&labelColor=FF5A1F)](https://doi.org/10.5281/zenodo.7888972)
