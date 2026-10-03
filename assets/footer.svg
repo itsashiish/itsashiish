@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-label="Designed and built by Ashish">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="72" rx="14"/></clipPath>
+    <style>.mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }</style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="72" fill="#0D0D0D"/>
+    <rect width="6" height="72" fill="#FF5A1F"/>
+    <text x="40" y="42" class="mono" font-size="13" letter-spacing="2.5" fill="#8B8B8B">DESIGNED &amp; BUILT BY ASHISH</text>
+    <text x="1160" y="42" class="mono" font-size="13" letter-spacing="2.5" fill="#FF5A1F" text-anchor="end">EOF</text>
+  </g>
+</svg>

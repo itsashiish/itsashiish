@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Ashish Ramtekkar — Product &amp; Visual Designer, Founder of Oglic">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1B1B1B" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="400" rx="20"/></clipPath>
+    <style>
+      .sans { font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+      .rise { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; }
+      @media (prefers-reduced-motion: reduce) { .rise, .dot, .sq { animation: none !important; } }
+      .d1 { animation-delay: .05s } .d2 { animation-delay: .2s } .d3 { animation-delay: .4s } .d4 { animation-delay: .6s }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+      .dot { animation: blink 1.6s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .sq { fill: #2A2A2A; animation: lit 6s infinite; }
+      .s1 { animation-delay: 0s } .s2 { animation-delay: 1s } .s3 { animation-delay: 2s }
+      .s4 { animation-delay: 3s } .s5 { animation-delay: 4s } .s6 { animation-delay: 5s }
+      @keyframes lit { 0%, 12% { fill: #FF5A1F } 20%, 100% { fill: #2A2A2A } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="400" fill="#0D0D0D"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+    <rect x="0" y="0" width="6" height="400" fill="#FF5A1F"/>
+
+    <!-- top meta -->
+    <text x="64" y="64" class="mono" font-size="14" letter-spacing="2.5" fill="#8B8B8B">README.MD</text>
+    <text x="1136" y="64" class="mono" font-size="14" letter-spacing="2.5" fill="#8B8B8B" text-anchor="end">INDEX · 2026</text>
+
+    <!-- name -->
+    <g class="rise d1">
+      <text x="60" y="186" class="sans" font-size="104" font-weight="800" letter-spacing="-4" fill="#F5F5F0">Ashish</text>
+    </g>
+    <g class="rise d2">
+      <text x="60" y="284" class="sans" font-size="104" font-weight="800" letter-spacing="-4" fill="#F5F5F0">Ramtekkar<tspan fill="#FF5A1F" class="dot">.</tspan></text>
+    </g>
+
+    <!-- role column -->
+    <g class="rise d3">
+      <text x="1136" y="164" class="sans" font-size="22" font-weight="600" fill="#F5F5F0" text-anchor="end">Product &amp; Visual Designer</text>
+      <text x="1136" y="198" class="sans" font-size="22" font-weight="600" fill="#FF5A1F" text-anchor="end">Founder of Oglic</text>
+      <text x="1136" y="232" class="sans" font-size="18" fill="#8B8B8B" text-anchor="end">Design, treated as a system.</text>
+    </g>
+
+    <!-- tool cells -->
+    <g class="rise d4">
+      <rect class="sq s1" x="964" y="262" width="20" height="20" rx="4"/>
+      <rect class="sq s2" x="992" y="262" width="20" height="20" rx="4"/>
+      <rect class="sq s3" x="1020" y="262" width="20" height="20" rx="4"/>
+      <rect class="sq s4" x="1048" y="262" width="20" height="20" rx="4"/>
+      <rect class="sq s5" x="1076" y="262" width="20" height="20" rx="4"/>
+      <rect class="sq s6" x="1104" y="262" width="20" height="20" rx="4" />
+    </g>
+
+    <!-- bottom rule -->
+    <line x1="64" y1="324" x2="1136" y2="324" stroke="#2A2A2A" stroke-width="1"/>
+    <text x="64" y="360" class="mono" font-size="13" letter-spacing="2.5" fill="#8B8B8B">BRAND SYSTEMS  /  PRODUCT INTERFACES  /  SMALL TOOLS</text>
+    <text x="1136" y="360" class="mono" font-size="13" letter-spacing="2.5" fill="#FF5A1F" text-anchor="end">OGLIC.COM ↗</text>
+  </g>
+</svg>
