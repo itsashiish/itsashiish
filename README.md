@@ -1,6 +1,6 @@
 # Hi, I'm Ashish 👋
 
-**Product & Visual Designer · Designing at Kuberhunt · Building [Oglic](https://oglic.com)**
+**Product & Visual Designer · Founder of [Oglic](https://oglic.com)**
 
 I design and build digital products — brand systems, product interfaces, and small tools that solve real problems. My background spans business analysis and AI, so I tend to treat design the way I treat workflows: as systems that should hold up at scale.
 
@@ -8,18 +8,22 @@ I design and build digital products — brand systems, product interfaces, and s
 
 ## 🚀 Currently
 
-- 🌐 **[Oglic](https://oglic.com)** — an independent studio of free, privacy-first web tools. 17 live, no accounts, no uploads.
-- 🎨 **Kuberhunt** — graphic designer on a fintech product: brand system, campaigns, app-store and product marketing assets.
+- 🌐 **[Oglic](https://oglic.com)** — an independent studio of free, privacy-first web tools. 25+ live, no accounts, no uploads.
+- 🎨 **Design tools for designers** — building tools for brand identity, motion and social media: logo stress-testing, logo motion, kinetic type, seamless carousels and brand patterns.
 - 💻 Building with AI-assisted workflows — from Figma to shipped code.
+
+**Previously** — Graphic Designer at **Kuberhunt** (fintech): brand system, campaigns, social media, app-store and product marketing assets.
 
 ### A few Oglic tools
 
 | Tool | What it does |
 |---|---|
-| [Compressor](https://compressor.oglic.com) | Compress images in the browser |
-| [Scrubber](https://scrubber.oglic.com) | Remove hidden metadata from files |
+| [Kiln](https://kiln.oglic.com) | Stress-test a logo across 12 real-world conditions |
+| [Ident](https://ident.oglic.com) | Turn an SVG logo into an animated brand ident |
+| [Tempo](https://tempo.oglic.com) | Animate text in rhythm to a beat, export as video |
+| [Seam](https://seam.oglic.com) | Slice wide designs into seamless carousel slides |
+| [Qualia](https://qualia.oglic.com) | Turn a feeling into abstract generative art |
 | [PDF Tools](https://pdf.oglic.com) | Merge, split and edit PDFs locally |
-| [Contraster](https://contraster.oglic.com) | Check color contrast for accessibility |
 
 → [See all tools](https://oglic.com)
 
