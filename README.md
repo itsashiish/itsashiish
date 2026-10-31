@@ -76,8 +76,6 @@ const ashish = {
 
 <p align="right"><a href="https://oglic.com"><b>See all 30+ tools →</b></a></p>
 
-<br />
-
 ## 🛠 Stack
 
 <table>
