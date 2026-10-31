@@ -40,36 +40,36 @@ const ashish = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <sub><code>01</code> · LOGO</sub><br />
-      <a href="https://kiln.oglic.com"><b>Kiln ↗</b></a><br />
-      <sub>Stress-test a logo across 12 real-world conditions.</sub>
+      <sub><code>01</code> · PEOPLE</sub><br />
+      <a href="https://tree.oglic.com"><b>Tree ↗</b></a><br />
+      <sub>Make a family tree or a chart of your friend groups in minutes.</sub>
     </td>
     <td width="33%" valign="top">
-      <sub><code>02</code> · MOTION</sub><br />
-      <a href="https://ident.oglic.com"><b>Ident ↗</b></a><br />
-      <sub>Turn an SVG logo into an animated brand ident.</sub>
+      <sub><code>02</code> · LIFE</sub><br />
+      <a href="https://once.oglic.com"><b>Once ↗</b></a><br />
+      <sub>Tick off experiences real people say everyone should have once.</sub>
     </td>
     <td width="33%" valign="top">
-      <sub><code>03</code> · TYPE</sub><br />
-      <a href="https://tempo.oglic.com"><b>Tempo ↗</b></a><br />
-      <sub>Animate text in rhythm to a beat, export as video.</sub>
+      <sub><code>03</code> · ROUTINE</sub><br />
+      <a href="https://usetoday.oglic.com"><b>UseToday ↗</b></a><br />
+      <sub>See today's care routine, step by step, from your own backup.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <sub><code>04</code> · SOCIAL</sub><br />
-      <a href="https://seam.oglic.com"><b>Seam ↗</b></a><br />
-      <sub>Slice wide designs into seamless carousel slides.</sub>
+      <sub><code>04</code> · SUBTITLES</sub><br />
+      <a href="https://clicksync.oglic.com"><b>ClickSync ↗</b></a><br />
+      <sub>Resync an .srt file by clicking a line and setting when it's said.</sub>
     </td>
     <td width="33%" valign="top">
-      <sub><code>05</code> · GENERATIVE</sub><br />
-      <a href="https://qualia.oglic.com"><b>Qualia ↗</b></a><br />
-      <sub>Turn a feeling into abstract generative art.</sub>
+      <sub><code>05</code> · LOGO</sub><br />
+      <a href="https://datum.oglic.com"><b>Datum ↗</b></a><br />
+      <sub>Draw the construction behind a logo. Show your working.</sub>
     </td>
     <td width="33%" valign="top">
-      <sub><code>06</code> · UTILITY</sub><br />
-      <a href="https://pdf.oglic.com"><b>PDF Tools ↗</b></a><br />
-      <sub>Merge, split and edit PDFs — entirely in your browser.</sub>
+      <sub><code>06</code> · BRAND</sub><br />
+      <a href="https://canon.oglic.com"><b>Canon ↗</b></a><br />
+      <sub>Build brand guidelines: the rules your brand lives by.</sub>
     </td>
   </tr>
 </table>
