@@ -27,7 +27,7 @@ const ashish = {
 
 ## 🚀 Currently
 
-- 🌐 **[Oglic](https://oglic.com)** — an independent studio of free, privacy-first web tools. **25+ live**, no accounts, no uploads.
+- 🌐 **[Oglic](https://oglic.com)** — an independent studio of free, privacy-first web tools. **30+ live**, no accounts, no uploads.
 - 🎨 **Design tools for designers** — tools for brand identity, motion and social media: logo stress-testing, logo motion, kinetic type, seamless carousels and brand patterns.
 - 💻 **AI-assisted workflows** — taking ideas from Figma frames to shipped, deployed code.
 
@@ -74,7 +74,7 @@ const ashish = {
   </tr>
 </table>
 
-<p align="right"><a href="https://oglic.com"><b>See all 25+ tools →</b></a></p>
+<p align="right"><a href="https://oglic.com"><b>See all 30+ tools →</b></a></p>
 
 <br />
 
